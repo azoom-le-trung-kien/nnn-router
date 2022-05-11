@@ -1,2 +1,2 @@
 declare function router(options: any) :any
-export default router;
+export default router
